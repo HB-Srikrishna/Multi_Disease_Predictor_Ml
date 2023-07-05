@@ -1,0 +1,3 @@
+
+
+streamlit run "/Volumes/Macintosh E/Python/ML Projects/Multiple diseas predicition system/Multiple diseas predicition system Streamlite/multiple_disease_pred.py"
